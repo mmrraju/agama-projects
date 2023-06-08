@@ -1,1 +1,13 @@
-{}
+{
+    "user_name_pass_authentication": {
+        "projectName": "user_name_pass_authentication",
+        "description": "User name and password based authentication",
+        "type": "community",
+        "author": "mmrraju",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mmrraju/agama-projects",
+        "githubUri": "https://github.com/mmrraju/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1686257342007"
+    }
+}
