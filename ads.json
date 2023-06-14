@@ -9,5 +9,20 @@
         "githubUri": "https://github.com/mmrraju/agama-projects",
         "license": "MIT",
         "lastUpdated": "1686257342007"
+    },
+    "Credential_based_authentication": {
+        "projectName": "Credential_based_authentication",
+        "description": "User credential based authentication ",
+        "type": "community",
+        "author": "mmrraju",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/mmrraju/agama-projects",
+        "githubUri": "https://github.com/mmrraju/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1686771774863",
+        "tags": [
+            "authentication",
+            "jans"
+        ]
     }
 }
