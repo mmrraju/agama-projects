@@ -15,7 +15,7 @@
         "description": "User credential based authentication ",
         "type": "community",
         "author": "mmrraju",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "authorWebsite": "https://github.com/mmrraju/agama-projects",
         "githubUri": "https://github.com/mmrraju/agama-projects",
         "license": "MIT",
